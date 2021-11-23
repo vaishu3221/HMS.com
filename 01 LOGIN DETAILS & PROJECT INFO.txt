@@ -1,0 +1,10 @@
+
+Database Name: ohmsphp
+
+Username: admin
+Password: Passward@123
+
+Doctor Details:-
+1. carol
+   passward:-Pass@123
+
